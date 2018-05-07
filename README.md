@@ -2,10 +2,7 @@
     RDC ERC20
  RapidChain Token 
 
-(https://coveralls.io/repos/github/ConsenSys/Tokens/badge.svg?branch=coverage_test)]
-
-(https://coveralls.io/github/ConsenSys/Tokens?branch=coverage_test) [![license]
-
+ [![license]
 (https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT) [!
 
  
