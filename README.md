@@ -1,4 +1,4 @@
-#      RDC
+#      RAPIDCHAIN
     RDC ERC20
  RapidChain Token 
 
