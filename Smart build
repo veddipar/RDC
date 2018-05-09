@@ -1,0 +1,5 @@
+Building the documentation site
+$ git clone git@github.com:ConsenSys/smart-contract-best-practices.git
+$ cd smart-contract-best-practices
+$ pip install -r requirements.txt
+$ mkdocs build 
